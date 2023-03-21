@@ -41,8 +41,9 @@ categoriaId
 
 ## Extras
 
-* Estrutura MVC
-* Services 
+* Estrutura MVC + Services
+* Exclusão suave
+* Metodo restaura um registro deletado
 
 ## Pra rodar o Projeto
 
