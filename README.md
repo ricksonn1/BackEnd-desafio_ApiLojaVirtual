@@ -1,4 +1,4 @@
-# Utilizei esse teste open-source da aikodigital pra testar meus conhecimentos. 
+# Utilizei esse teste open-source que encontrei em um forúm para testar meus conhecimentos. 
 
 
 # Teste Back-end
