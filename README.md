@@ -27,17 +27,17 @@ categoriaId
 
 ### Os endpoints devem ser os seguintes:
 
-GET /produtos: Retorna todos os produtos cadastrados com as suas categorias.
-GET /produtos/:id: Retorna o produto com o id especificado e a sua categoria.
-POST /produtos: Cadastra um novo produto associado a uma categoria existente.
-PUT /produtos/:id: Atualiza os dados do produto com o id especificado.
-DELETE /produtos/:id: Remove o produto com o id especificado.
+* GET /produtos: Retorna todos os produtos cadastrados com as suas categorias.
+* GET /produtos/:id: Retorna o produto com o id especificado e a sua categoria.
+* POST /produtos: Cadastra um novo produto associado a uma categoria existente.
+* PUT /produtos/:id: Atualiza os dados do produto com o id especificado.
+* DELETE /produtos/:id: Remove o produto com o id especificado.
 
-GET /categorias: Retorna todas as categorias cadastradas com os seus produtos.
-GET /categorias/:id: Retorna a categoria com o id especificado e os seus produtos.
-POST /categorias: Cadastra uma nova categoria associada a vários produtos existentes.
-PUT /categorias/:id: Atualiza os dados da categoria com o id especificado.
-DELETE /categorias/:id: Remove a categoria com o id especificado e todos os seus produtos associados.
+* GET /categorias: Retorna todas as categorias cadastradas com os seus produtos.
+* GET /categorias/:id: Retorna a categoria com o id especificado e os seus produtos.
+* POST /categorias: Cadastra uma nova categoria associada a vários produtos existentes.
+* PUT /categorias/:id: Atualiza os dados da categoria com o id especificado.
+* DELETE /categorias/:id: Remove a categoria com o id especificado e todos os seus produtos associados.
 
 ## Extras
 
